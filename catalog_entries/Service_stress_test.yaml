@@ -6799,7 +6799,7 @@ Service:
   EKS Cluster Type: general-compute
   Data Sensitivity: internal
   Service Tier: tier1
-  - Name: ocean-stress-svc-201
+- Name: ocean-stress-svc-201
   Description: Synthetic row for Ocean live-events / JQ stress (safe to delete).
   PagerDuty Service: ''
   Escalation Path: ''

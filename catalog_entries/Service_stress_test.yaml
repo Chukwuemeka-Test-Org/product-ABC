@@ -6,7 +6,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-001
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -18,7 +18,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-001
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -40,7 +40,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-002
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -52,7 +52,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-002
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -74,7 +74,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-003
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -86,7 +86,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-003
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -108,7 +108,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-004
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -120,7 +120,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-004
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -142,7 +142,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-005
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -154,7 +154,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-005
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -176,7 +176,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-006
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -188,7 +188,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-006
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -210,7 +210,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-007
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -222,7 +222,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-007
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -244,7 +244,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-008
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -256,7 +256,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-008
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -278,7 +278,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-009
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -290,7 +290,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-009
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -312,7 +312,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-010
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -324,7 +324,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-010
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -346,7 +346,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-011
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -358,7 +358,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-011
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -380,7 +380,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-012
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -392,7 +392,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-012
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -414,7 +414,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-013
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -426,7 +426,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-013
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -448,7 +448,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-014
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -460,7 +460,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-014
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -482,7 +482,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-015
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -494,7 +494,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-015
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -516,7 +516,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-016
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -528,7 +528,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-016
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -550,7 +550,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-017
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -562,7 +562,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-017
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -584,7 +584,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-018
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -596,7 +596,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-018
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -618,7 +618,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-019
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -630,7 +630,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-019
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -652,7 +652,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-020
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -664,7 +664,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-020
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -686,7 +686,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-021
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -698,7 +698,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-021
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -720,7 +720,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-022
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -732,7 +732,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-022
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -754,7 +754,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-023
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -766,7 +766,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-023
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -788,7 +788,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-024
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -800,7 +800,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-024
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -822,7 +822,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-025
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -834,7 +834,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-025
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -856,7 +856,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-026
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -868,7 +868,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-026
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -890,7 +890,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-027
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -902,7 +902,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-027
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -924,7 +924,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-028
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -936,7 +936,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-028
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -958,7 +958,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-029
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -970,7 +970,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-029
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -992,7 +992,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-030
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1004,7 +1004,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-030
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1026,7 +1026,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-031
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1038,7 +1038,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-031
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1060,7 +1060,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-032
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1072,7 +1072,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-032
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1094,7 +1094,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-033
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1106,7 +1106,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-033
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1128,7 +1128,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-034
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1140,7 +1140,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-034
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1162,7 +1162,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-035
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1174,7 +1174,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-035
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1196,7 +1196,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-036
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1208,7 +1208,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-036
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1230,7 +1230,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-037
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1242,7 +1242,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-037
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1264,7 +1264,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-038
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1276,7 +1276,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-038
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1298,7 +1298,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-039
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1310,7 +1310,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-039
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1332,7 +1332,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-040
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1344,7 +1344,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-040
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1366,7 +1366,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-041
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1378,7 +1378,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-041
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1400,7 +1400,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-042
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1412,7 +1412,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-042
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1434,7 +1434,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-043
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1446,7 +1446,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-043
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1468,7 +1468,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-044
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1480,7 +1480,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-044
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1502,7 +1502,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-045
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1514,7 +1514,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-045
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1536,7 +1536,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-046
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1548,7 +1548,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-046
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1570,7 +1570,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-047
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1582,7 +1582,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-047
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1604,7 +1604,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-048
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1616,7 +1616,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-048
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1638,7 +1638,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-049
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1650,7 +1650,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-049
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1672,7 +1672,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-050
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1684,7 +1684,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-050
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1706,7 +1706,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-051
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1718,7 +1718,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-051
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1740,7 +1740,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-052
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1752,7 +1752,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-052
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1774,7 +1774,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-053
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1786,7 +1786,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-053
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1808,7 +1808,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-054
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1820,7 +1820,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-054
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1842,7 +1842,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-055
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1854,7 +1854,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-055
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1876,7 +1876,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-056
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1888,7 +1888,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-056
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1910,7 +1910,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-057
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1922,7 +1922,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-057
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1944,7 +1944,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-058
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1956,7 +1956,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-058
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -1978,7 +1978,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-059
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -1990,7 +1990,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-059
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2012,7 +2012,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-060
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2024,7 +2024,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-060
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2046,7 +2046,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-061
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2058,7 +2058,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-061
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2080,7 +2080,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-062
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2092,7 +2092,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-062
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2114,7 +2114,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-063
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2126,7 +2126,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-063
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2148,7 +2148,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-064
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2160,7 +2160,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-064
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2182,7 +2182,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-065
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2194,7 +2194,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-065
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2216,7 +2216,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-066
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2228,7 +2228,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-066
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2250,7 +2250,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-067
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2262,7 +2262,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-067
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2284,7 +2284,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-068
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2296,7 +2296,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-068
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2318,7 +2318,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-069
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2330,7 +2330,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-069
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2352,7 +2352,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-070
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2364,7 +2364,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-070
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2386,7 +2386,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-071
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2398,7 +2398,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-071
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2420,7 +2420,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-072
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2432,7 +2432,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-072
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2454,7 +2454,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-073
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2466,7 +2466,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-073
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2488,7 +2488,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-074
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2500,7 +2500,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-074
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2522,7 +2522,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-075
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2534,7 +2534,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-075
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2556,7 +2556,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-076
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2568,7 +2568,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-076
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2590,7 +2590,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-077
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2602,7 +2602,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-077
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2624,7 +2624,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-078
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2636,7 +2636,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-078
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2658,7 +2658,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-079
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2670,7 +2670,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-079
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2692,7 +2692,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-080
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2704,7 +2704,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-080
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2726,7 +2726,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-081
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2738,7 +2738,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-081
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2760,7 +2760,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-082
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2772,7 +2772,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-082
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2794,7 +2794,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-083
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2806,7 +2806,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-083
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2828,7 +2828,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-084
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2840,7 +2840,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-084
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2862,7 +2862,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-085
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2874,7 +2874,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-085
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2896,7 +2896,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-086
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2908,7 +2908,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-086
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2930,7 +2930,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-087
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2942,7 +2942,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-087
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2964,7 +2964,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-088
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -2976,7 +2976,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-088
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -2998,7 +2998,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-089
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3010,7 +3010,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-089
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3032,7 +3032,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-090
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3044,7 +3044,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-090
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3066,7 +3066,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-091
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3078,7 +3078,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-091
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3100,7 +3100,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-092
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3112,7 +3112,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-092
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3134,7 +3134,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-093
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3146,7 +3146,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-093
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3168,7 +3168,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-094
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3180,7 +3180,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-094
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3202,7 +3202,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-095
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3214,7 +3214,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-095
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3236,7 +3236,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-096
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3248,7 +3248,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-096
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3270,7 +3270,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-097
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3282,7 +3282,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-097
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3304,7 +3304,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-098
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3316,7 +3316,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-098
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3338,7 +3338,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-099
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3350,7 +3350,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-099
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3372,7 +3372,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-100
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3384,7 +3384,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-100
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3406,7 +3406,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-101
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3418,7 +3418,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-101
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3440,7 +3440,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-102
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3452,7 +3452,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-102
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3474,7 +3474,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-103
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3486,7 +3486,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-103
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3508,7 +3508,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-104
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3520,7 +3520,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-104
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3542,7 +3542,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-105
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3554,7 +3554,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-105
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3576,7 +3576,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-106
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3588,7 +3588,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-106
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3610,7 +3610,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-107
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3622,7 +3622,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-107
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3644,7 +3644,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-108
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3656,7 +3656,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-108
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3678,7 +3678,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-109
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3690,7 +3690,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-109
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3712,7 +3712,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-110
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3724,7 +3724,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-110
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3746,7 +3746,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-111
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3758,7 +3758,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-111
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3780,7 +3780,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-112
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3792,7 +3792,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-112
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3814,7 +3814,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-113
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3826,7 +3826,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-113
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3848,7 +3848,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-114
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3860,7 +3860,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-114
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3882,7 +3882,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-115
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3894,7 +3894,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-115
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3916,7 +3916,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-116
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3928,7 +3928,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-116
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3950,7 +3950,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-117
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3962,7 +3962,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-117
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -3984,7 +3984,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-118
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -3996,7 +3996,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-118
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4018,7 +4018,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-119
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4030,7 +4030,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-119
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4052,7 +4052,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-120
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4064,7 +4064,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-120
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4086,7 +4086,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-121
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4098,7 +4098,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-121
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4120,7 +4120,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-122
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4132,7 +4132,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-122
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4154,7 +4154,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-123
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4166,7 +4166,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-123
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4188,7 +4188,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-124
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4200,7 +4200,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-124
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4222,7 +4222,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-125
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4234,7 +4234,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-125
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4256,7 +4256,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-126
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4268,7 +4268,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-126
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4290,7 +4290,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-127
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4302,7 +4302,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-127
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4324,7 +4324,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-128
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4336,7 +4336,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-128
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4358,7 +4358,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-129
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4370,7 +4370,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-129
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4392,7 +4392,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-130
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4404,7 +4404,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-130
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4426,7 +4426,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-131
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4438,7 +4438,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-131
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4460,7 +4460,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-132
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4472,7 +4472,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-132
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4494,7 +4494,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-133
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4506,7 +4506,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-133
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4528,7 +4528,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-134
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4540,7 +4540,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-134
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4562,7 +4562,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-135
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4574,7 +4574,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-135
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4596,7 +4596,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-136
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4608,7 +4608,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-136
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4630,7 +4630,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-137
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4642,7 +4642,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-137
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4664,7 +4664,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-138
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4676,7 +4676,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-138
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4698,7 +4698,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-139
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4710,7 +4710,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-139
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4732,7 +4732,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-140
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4744,7 +4744,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-140
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4766,7 +4766,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-141
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4778,7 +4778,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-141
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4800,7 +4800,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-142
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4812,7 +4812,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-142
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4834,7 +4834,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-143
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4846,7 +4846,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-143
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4868,7 +4868,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-144
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4880,7 +4880,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-144
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4902,7 +4902,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-145
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4914,7 +4914,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-145
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4936,7 +4936,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-146
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4948,7 +4948,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-146
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -4970,7 +4970,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-147
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -4982,7 +4982,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-147
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5004,7 +5004,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-148
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5016,7 +5016,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-148
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5038,7 +5038,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-149
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5050,7 +5050,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-149
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5072,7 +5072,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-150
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5084,7 +5084,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-150
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5106,7 +5106,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-151
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5118,7 +5118,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-151
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5140,7 +5140,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-152
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5152,7 +5152,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-152
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5174,7 +5174,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-153
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5186,7 +5186,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-153
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5208,7 +5208,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-154
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5220,7 +5220,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-154
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5242,7 +5242,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-155
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5254,7 +5254,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-155
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5276,7 +5276,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-156
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5288,7 +5288,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-156
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5310,7 +5310,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-157
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5322,7 +5322,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-157
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5344,7 +5344,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-158
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5356,7 +5356,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-158
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5378,7 +5378,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-159
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5390,7 +5390,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-159
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5412,7 +5412,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-160
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5424,7 +5424,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-160
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5446,7 +5446,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-161
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5458,7 +5458,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-161
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5480,7 +5480,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-162
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5492,7 +5492,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-162
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5514,7 +5514,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-163
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5526,7 +5526,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-163
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5548,7 +5548,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-164
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5560,7 +5560,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-164
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5582,7 +5582,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-165
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5594,7 +5594,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-165
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5616,7 +5616,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-166
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5628,7 +5628,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-166
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5650,7 +5650,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-167
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5662,7 +5662,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-167
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5684,7 +5684,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-168
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5696,7 +5696,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-168
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5718,7 +5718,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-169
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5730,7 +5730,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-169
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5752,7 +5752,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-170
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5764,7 +5764,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-170
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5786,7 +5786,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-171
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5798,7 +5798,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-171
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5820,7 +5820,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-172
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5832,7 +5832,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-172
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5854,7 +5854,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-173
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5866,7 +5866,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-173
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5888,7 +5888,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-174
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5900,7 +5900,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-174
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5922,7 +5922,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-175
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5934,7 +5934,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-175
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5956,7 +5956,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-176
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -5968,7 +5968,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-176
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -5990,7 +5990,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-177
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6002,7 +6002,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-177
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6024,7 +6024,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-178
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6036,7 +6036,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-178
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6058,7 +6058,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-179
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6070,7 +6070,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-179
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6092,7 +6092,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-180
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6104,7 +6104,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-180
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6126,7 +6126,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-181
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6138,7 +6138,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-181
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6160,7 +6160,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-182
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6172,7 +6172,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-182
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6194,7 +6194,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-183
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6206,7 +6206,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-183
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6228,7 +6228,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-184
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6240,7 +6240,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-184
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6262,7 +6262,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-185
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6274,7 +6274,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-185
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6296,7 +6296,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-186
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6308,7 +6308,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-186
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6330,7 +6330,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-187
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6342,7 +6342,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-187
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6364,7 +6364,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-188
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6376,7 +6376,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-188
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6398,7 +6398,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-189
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6410,7 +6410,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-189
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6432,7 +6432,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-190
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6444,7 +6444,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-190
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6466,7 +6466,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-191
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6478,7 +6478,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-191
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6500,7 +6500,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-192
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6512,7 +6512,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-192
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6534,7 +6534,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-193
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6546,7 +6546,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-193
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6568,7 +6568,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-194
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6580,7 +6580,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-194
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6602,7 +6602,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-195
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6614,7 +6614,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-195
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6636,7 +6636,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-196
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6648,7 +6648,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-196
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6670,7 +6670,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-197
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6682,7 +6682,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-197
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6704,7 +6704,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-198
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6716,7 +6716,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-198
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6738,7 +6738,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-199
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6750,7 +6750,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-199
   Teams: []
   Business Feature: ''
   Business Service: ''
@@ -6772,7 +6772,7 @@ Service:
   High Priority Alert Slack Channel: ''
   Low Priority Alert Slack Channel: ''
   Terraform Directory In Repository: ''
-  AWS Namespace: ''
+  AWS Namespace: ocean-stress-ns-200
   Supplemental Generic AWS Managed Policies For Terraform: []
   Supplemental StubHub AWS Managed Policies For Terraform: []
   Dashboards: []
@@ -6784,7 +6784,7 @@ Service:
   EKS Bootstrap Service: false
   Change Source URL: ''
   Modified By: ''
-  System: ''
+  System: ocean-stress-ns-200
   Teams: []
   Business Feature: ''
   Business Service: ''

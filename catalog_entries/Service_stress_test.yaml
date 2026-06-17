@@ -373,3 +373,37 @@ Service:
   EKS Cluster Type: general-compute
   Data Sensitivity: internal
   Service Tier: tier1
+- Name: ocean-stress-svc-012
+  Description: Synthetic row for Ocean live-events / JQ stress (safe to delete).
+  PagerDuty Service: ''
+  Escalation Path: ''
+  High Priority Alert Slack Channel: ''
+  Low Priority Alert Slack Channel: ''
+  Terraform Directory In Repository: ''
+  AWS Namespace: ocean-stress-ns-012
+  Supplemental Generic AWS Managed Policies For Terraform: []
+  Supplemental StubHub AWS Managed Policies For Terraform: []
+  Dashboards: []
+  ITGC Group: ''
+  Availability Goal: 0
+  EKS Service: false
+  Block On Tests: false
+  EKS Privileged Service: false
+  EKS Bootstrap Service: false
+  Change Source URL: ''
+  Modified By: ''
+  System: ocean-stress-ns-012
+  Teams: []
+  Business Feature: ''
+  Business Service: ''
+  GitHub Repository: ''
+  AWS Accounts: []
+  Dependencies: []
+  Service Type: ''
+  ADO Deployment Pipelines: []
+  ADO CI Pipelines: []
+  QA Azure App Registration Override: ''
+  Production Azure App Registration Override: ''
+  EKS Cluster Type: general-compute
+  Data Sensitivity: internal
+  Service Tier: tier1
